@@ -1,0 +1,42 @@
+We want a program that is capable of taking infomation exported from active
+as a CSV file and format it into a .xlsx file. Active can export a few 
+difference reports. This includes:
+
+1. Athlete Roster
+2. Medical/Emergency Contacts
+3. Athlete Waivers
+4. Top Times Spreadsheet
+5. Top Times Rankings 
+6. Top Times By Name
+7. Meet Entries
+
+
+This information can be used in many ways. Here are some of the items I
+would like to include in the project.
+
+1. Comprehenisve swimmer swimmer information sheet
+	This sheet would include things like names, DOB, age as of May 1st, Div,
+	BCSSA ID, guardians name, gender, home phone number, cell number, and 
+	Email. I would like the sheet to be formated to allow to sort and filter
+	by column in excel or google sheets.
+	
+2. Swimmer rankings by event
+	This sheet would include a mens and womens sheets and would rank all 
+	swimmers in each event. It should be formated so that swimmer division
+	is included and can be used to filter and sort by division.
+	
+3. Swimmer precent away from PQT
+	This sheet would include each swimmers precent away from this years 
+	PQT's. Again enable the ability for the user to be able to filter and
+	sort.
+
+4. Swimmer relay builder
+	This sheet might be more challanging. It should work well for div 3 and
+	under. Basiclly we want to have a sheet outputed with the ideal relays
+	given the meet sign-up and the previous best times of swimmers.
+	
+5. Preformance recap stats (number of meets swam)
+	This sheet would include things like number of swim meets, number of
+	best times, average precent improved in each event, number of races, and
+	number of DQ's. I am not so sure about this one but would be cool to 
+	have.
